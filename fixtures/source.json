@@ -1,0 +1,25 @@
+{
+  "title": "智能穿戴商品型号与零售页的采集核对",
+  "category": "智能商品",
+  "choice": "连接制式",
+  "revision": "版本",
+  "detail_label": "规格详情",
+  "entity": "型号",
+  "fact": "价格",
+  "items": [
+    {
+      "id": "wearable-a",
+      "name": "云环表蓝牙版 799 元",
+      "group": "甲",
+      "detail": "规格详情甲",
+      "changed_detail": "规格详情修订甲"
+    },
+    {
+      "id": "wearable-b",
+      "name": "云环表蜂窝版 999 元",
+      "group": "乙",
+      "detail": "规格详情乙",
+      "changed_detail": "规格详情修订乙"
+    }
+  ]
+}
